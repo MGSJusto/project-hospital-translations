@@ -5,30 +5,30 @@
         <LanguageNameLocalized>Português do Brazil</LanguageNameLocalized>
 
         <Contributors>
-            <Name>Fill your names!</Name>
+            <Name>Mauricio Justo</Name>
         </Contributors>
         
     	<LocalizedStrings>
             <!-- Employee job titles -->
-            <GameDBLocalizedString>      <LocID>OCCUPATION_DOCTOR</LocID>               <Text>Doctor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_NURSE</LocID>                <Text>Nurse</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_LAB_SPECIALIST</LocID>       <Text>Technologist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_JANITOR</LocID>              <Text>Janitor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FIRED</LocID>                           <Text>Fired</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_DOCTOR</LocID>               <Text>Doutor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_NURSE</LocID>                <Text>Enfermeira</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_LAB_SPECIALIST</LocID>       <Text>Tecnólogo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_JANITOR</LocID>              <Text>Faxineiro</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FIRED</LocID>                           <Text>Demitido</Text>  </GameDBLocalizedString>
 
             <!-- Patient's jobs -->
-            <GameDBLocalizedString>      <LocID>OCCUPATION_OFFICE_JOB</LocID>           <Text>Office clerk</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_MANAGER</LocID>              <Text>Manager</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_ACCOUNTANT</LocID>           <Text>Accountant</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_TEACHER</LocID>              <Text>Teacher</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_COOK</LocID>                 <Text>Cook</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_FACTORY_WORKER</LocID>       <Text>Factory worker</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_CASHIER</LocID>              <Text>Cashier</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_ATHLETE</LocID>              <Text>Athlete</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_ACROBAT</LocID>              <Text>Acrobat</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_RETIRED</LocID>              <Text>Retired</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_OFFICE_JOB</LocID>           <Text>Secretária</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_MANAGER</LocID>              <Text>Gerente</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_ACCOUNTANT</LocID>           <Text>Contador</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_TEACHER</LocID>              <Text>Professor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_COOK</LocID>                 <Text>Cozinheiro</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_FACTORY_WORKER</LocID>       <Text>Operário</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_CASHIER</LocID>              <Text>Caixa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_ATHLETE</LocID>              <Text>Atleta</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_ACROBAT</LocID>              <Text>Acrobata</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_RETIRED</LocID>              <Text>Aposentado</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NONE</LocID>                            <Text>none</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NONE</LocID>                            <Text>nenhum</Text>  </GameDBLocalizedString>
             
             <!-- Perks staff -->
             <GameDBLocalizedString>      <LocID>PERK_GOOD_BOSS</LocID>               	<Text>Good Boss</Text>  </GameDBLocalizedString>
